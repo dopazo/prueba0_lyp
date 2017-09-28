@@ -1,3 +1,8 @@
+import Cartas.Corazon;
+import Cartas.Espada;
+import Cartas.Rombo;
+import Cartas.Trebol;
+
 import java.util.Collections;
 import java.util.List;
 import java.util.ArrayList;
