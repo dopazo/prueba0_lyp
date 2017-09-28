@@ -12,6 +12,13 @@ public class Baraja {
         for(Numero numero: Numero.values()) {
             Carta carta1 = new Corazon(numero);
             Carta carta2 = new Rombo(numero);
+            Carta carta3 = new Espada(numero);
+            Carta carta4 = new Trebol(numero);
+
+            cartas.add(carta1);
+            cartas.add(carta2);
+            cartas.add(carta3);
+            cartas.add(carta4);
             /*
                 Acá deben completar el constructor de forma de
                 poblar la lista de cartas con todas las cartas de
@@ -22,8 +29,12 @@ public class Baraja {
             */
         }
     }
-
     // acá falta un método :) Ve el método main de la clase Main
+
+
+    public List<Carta> getCartas() {
+        return cartas;
+    }
 
     public void barajar() {
         Collections.shuffle(this.cartas);
