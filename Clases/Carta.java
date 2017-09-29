@@ -1,10 +1,13 @@
-
+package Clases;
 
 public class Carta {
 
     // variables de instancia
     protected Pinta pinta;
     protected Numero numero;
+
+    public Carta() {
+    }
 
     public Carta(Pinta pinta, Numero numero) {
         this.pinta = pinta;

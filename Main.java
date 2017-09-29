@@ -1,3 +1,8 @@
+import Clases.Baraja;
+import Clases.Carta;
+import Clases.Numero;
+import Clases.Pinta;
+
 import java.util.Scanner;
 
 public class Main {
