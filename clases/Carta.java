@@ -1,4 +1,4 @@
-package Clases;
+package clases;
 
 public class Carta {
 
@@ -6,8 +6,8 @@ public class Carta {
     protected Pinta pinta;
     protected Numero numero;
 
-    public Carta() {
-    }
+    /*public Carta() {
+    }*/
 
     public Carta(Pinta pinta, Numero numero) {
         this.pinta = pinta;

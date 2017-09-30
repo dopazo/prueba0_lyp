@@ -18,9 +18,9 @@ ToDo:
 Usted debe:
 
 0. terminar el programa de forma que el programa que está en la clase Main funcione
-  0. La clase Clases.Baraja está incompleta
-  0. Hay que arreglar el constructor de la clase Clases.Carta
-  0. Deben crear las clases hijas de Clases.Carta
+  0. La clase clases.Baraja está incompleta
+  0. Hay que arreglar el constructor de la clase clases.Carta
+  0. Deben crear las clases hijas de clases.Carta
 0. ordenar las clases en paquetes
 
 Notas

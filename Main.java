@@ -1,7 +1,7 @@
-import Clases.Baraja;
-import Clases.Carta;
-import Clases.Numero;
-import Clases.Pinta;
+import clases.Baraja;
+import clases.Carta;
+import clases.Numero;
+import clases.Pinta;
 
 import java.util.Scanner;
 
